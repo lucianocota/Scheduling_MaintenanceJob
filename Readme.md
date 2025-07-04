@@ -10,7 +10,7 @@
 
     - [Instances](http://www.decom.ufop.br/prof/marcone/projects/LTPMSP.html)
 
-  - "An Iterated Local Search-based algorithm for the short-term technology maintenance scheduling: A case study in a bulk solid port" (submitted to Flexible Services and Manufacturing Journal)
+  - "An Iterated Local Search-based algorithm for the short-term technology maintenance scheduling: A case study in a bulk solid port" (submitted to Flexible Services and Manufacturing Journal in 2025)
  
     - Authors: Breno Augusto Klein Magnago and Luciano P. Cota (ITV)   
            
